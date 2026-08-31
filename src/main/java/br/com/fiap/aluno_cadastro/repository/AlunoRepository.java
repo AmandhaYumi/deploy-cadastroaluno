@@ -1,6 +1,6 @@
-package br.com.fiap.alunocadastro.repository;
+package br.com.fiap.aluno_cadastro.repository;
 
-import br.com.fiap.alunocadastro.model.Aluno;
+import br.com.fiap.aluno_cadastro.model.Aluno;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

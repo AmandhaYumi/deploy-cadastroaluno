@@ -1,7 +1,7 @@
-package br.com.fiap.alunocadastro.controller;
+package br.com.fiap.aluno_cadastro.controller;
 
-import br.com.fiap.alunocadastro.model.Aluno;
-import br.com.fiap.alunocadastro.repository.AlunoRepository;
+import br.com.fiap.aluno_cadastro.model.Aluno;
+import br.com.fiap.aluno_cadastro.repository.AlunoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

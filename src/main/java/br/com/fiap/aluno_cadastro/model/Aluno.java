@@ -1,4 +1,4 @@
-package br.com.fiap.alunocadastro.model;
+package br.com.fiap.aluno_cadastro.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
